@@ -40,7 +40,3 @@ This GitHub repository is dedicated to the development of a Speech Emotion Recog
 ## Contributions
 Contributions to this project are welcome! Whether you want to improve the model's architecture, add new features, or fix bugs, please feel free to submit pull requests.
 
-## Acknowledgments
-We would like to acknowledge the open-source community and the developers of the Python libraries and frameworks used in this project. Additionally, special thanks to anyone who contributes to this project to make speech emotion recognition more accessible and accurate.
-
-Get ready to explore the fascinating world of speech emotion recognition with Python. Happy coding!
